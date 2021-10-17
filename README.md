@@ -1,1 +1,1 @@
-# Mutithreaded-Maze-Solver
+# Multithreaded-Maze-Solver
