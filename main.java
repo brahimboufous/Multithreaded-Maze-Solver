@@ -1,9 +1,8 @@
 
 
-//0 : cell
-//1 : wall
-//# : runner
-//x : visited
+//1 : cell
+//0 : wall
+//-1 : visited
 
 public class main {
 
