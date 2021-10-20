@@ -2,10 +2,9 @@ import java.awt.Color;
 import javax.swing.JFrame;
 import javax.swing.JPanel;
 
-//0 : cell
-//1 : wall
-//# : runner
-//x : visited
+//1 : cell
+//0 : wall
+//-1 : visited
 
 public class main {
 
